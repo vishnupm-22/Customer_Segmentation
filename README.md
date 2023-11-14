@@ -9,6 +9,7 @@
 * EDA
 * Handling Imbalanced dataset 
 * Model Building and Evaluation
+
 Data contains 5 features : CustomerID ,Gender, Age, Annual Income ,Spending Score of a customer.
 Demographic data plays a crucial role in identifying patterns and preferences among different consumer groups. So Features like Age,Gender,Annual Income and Spending Score are important for grouping the data.
 
