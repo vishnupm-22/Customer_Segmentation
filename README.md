@@ -25,3 +25,7 @@ Demographic data plays a crucial role in identifying patterns and preferences am
 **Feature Engineering**:
  * Applied MinMaxScaler technique to the features that does not display a normal distribution,
  * Applied PCA technique to reduce the dimension from 4d to 2d and to visualize the clusters in 2d
+
+**Model Building and Evaluation**:
+ * used elbow method to find the optimal no of clusters (k).
+ * Implemented K-means and visualized these clusters with their centroids.
