@@ -7,7 +7,6 @@
 **Steps** :
 * Understanding the data
 * EDA
-* Handling Imbalanced dataset 
 * Model Building and Evaluation
 
 **Dataset link** : https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
